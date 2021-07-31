@@ -91,7 +91,7 @@
             "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
-    "languages": [{ "language": "Chinese", "value": 100, "fluency": "Native speaker" }, { "language": "English", "value": 15, "fluency": "Native speaker" },{ "language": "Malay", "value": 100, "fluency": "Native speaker" } ],
+    "languages": [{ "language": "Chinese", "value": 100, "fluency": "Native speaker" }, { "language": "English", "value": 80, "fluency": "Native speaker" },{ "language": "Malay", "value": 80, "fluency": "Native speaker" } ],
     "interests": [
        
         {
@@ -106,7 +106,7 @@
     ],
     "projects": [
         {
-            "index": 1,
+            "index": 3,
             "date": { "month": 2, "year": 2017 },
             "description": "A Java Program that calculate the calories to be burned by evaluating food consumed in one day and the lifestyle",
             "name": "Burning Calories",
@@ -121,7 +121,7 @@
             "endDate": "2017-07-15"
         },
         {
-            "index": 3,
+            "index": 1,
             "date": { "month": 3, "year": 2020 },
             "description": "To let teammate in group project to evaluate each other, and calculate the final score for each student before sending a report in excel file to professor",
             "name": "Self Peer Evaluation System",
@@ -139,9 +139,6 @@
                 { "name": "Silicon Valley, California" }
             ],
             "remoteFrequency": "regularly"
-        },
-        "currentJob": {
-            "issues": { "not_what_i_want": true}
         },
         "education": { "studiesLevel": 2 },
         "work": {
