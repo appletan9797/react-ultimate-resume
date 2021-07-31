@@ -26,7 +26,7 @@
         "url": "git+https://github.com/welovedevs/react-ultimate-resume.git"
     },
     "author": "WeLoveDevs.com",
-    "license": "AGPLv3",
+    "license": "UNLICENSED",
     "peerDependencies": {
         "@material-ui/core": "^4.11.0",
         "@welovedevs/ui": "1.1.4",
@@ -147,5 +147,6 @@
         "*.+(ts|tsx)": [
             "prettier --loglevel=debug --write"
         ]
-    }
+    },
+    "homepage": "https://appletan9797.github.io/react-ultimate-resume/"
 }
