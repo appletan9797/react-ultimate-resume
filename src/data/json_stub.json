@@ -114,29 +114,24 @@
         },
         {
             "index": 2,
-            "date": { "month": 5, "year": 2020 },
-            "description": "** Pensée uniquement pour téléphone **\nApplication permettant de connaître la météo actuelle d'une ville. Réalisée afin de découvrir VueJs.",
+            "date": { "month": 5, "year": 2017 },
+            "description": "A Second Hand Item Exchange and Sell Platform",
             "id": "c64e6ca1-6300-4d7f-a305-8cfb7c99a9e6",
-            "images": [{ "url": "https://cdn.filestackcontent.com/w5oskUihSiYCxekOn9Ba" }],
-            "link": "https://appli-meteo.netlify.app/",
-            "name": "Application Météo",
-            "endDate": "2020-06-01"
+            "name": "Second Hand Platform",
+            "endDate": "2017-07-15"
         },
         {
             "index": 3,
-            "date": { "month": 7, "year": 2020 },
-            "description": "Premières armes avec Angular et Typescript :\nMise en place d'un environnement Angular, développement d'une authentification avec Firebase, gestion des formulaires, utilisation d'observable avec RxJs.\n",
-            "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
-            "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
-            "link": "https://my-connected-library.netlify.app/",
-            "name": "Librairie Connectée",
-            "endDate": "2020-08-01"
+            "date": { "month": 3, "year": 2020 },
+            "description": "To let teammate in group project to evaluate each other, and calculate the final score for each student before sending a report in excel file to professor",
+            "name": "Self Peer Evaluation System",
+            "endDate": "2020-06-30"
         }
     ],
     "specific": {
         "basics": {
             "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "personalDescription": "Started to learn coding since 2015, keeps learning now and final aim is to find a software development job"
         },
         "dreamJob": {
             "locations": [
@@ -148,7 +143,7 @@
         "currentJob": {
             "issues": { "not_what_i_want": true}
         },
-        "education": { "studiesLevel": null },
+        "education": { "studiesLevel": 2 },
         "work": {
             "contractTypes": ["permanent"],
             "codingYears": 6,
