@@ -73,15 +73,15 @@
     ],
     "skills": [
         {
-            "name": "PHP",
-            "level": "Novice",
-            "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
             "name": "Java",
             "level": "Novice",
             "value": 50,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "PHP",
+            "level": "Novice",
+            "value": 40,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
