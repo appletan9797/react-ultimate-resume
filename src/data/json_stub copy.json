@@ -2,11 +2,11 @@
     "basics": {
         "name": "Tan Wei Teng (Apple)",
         "label": "Programmer-to-be",
-        "picture": "profile.jpg",
+        "picture": "",
         "email": "appleteng97@gmail.com",
         "phone": "(65) 9738-3112",
         "website": "",
-        "summary": "A girl who working on the path of becoming programmer",
+        "summary": "A summary of Apple...",
         "location": {
             "address": "#11-11 727 Tampines St 71",
             "postalCode": "520727",
@@ -73,25 +73,25 @@
     ],
     "skills": [
         {
-            "name": "Java",
+            "name": "PHP",
             "level": "Novice",
-            "value": 50,
+            "value": 100,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "PHP",
+            "name": "Java",
             "level": "Novice",
-            "value": 40,
+            "value": 80,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
             "name": "C / C++",
             "level": "Novice",
-            "value": 10,
+            "value": 40,
             "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
-    "languages": [{ "language": "Chinese", "value": 100, "fluency": "Native speaker" }, { "language": "English", "value": 80, "fluency": "Native speaker" },{ "language": "Malay", "value": 80, "fluency": "Native speaker" } ],
+    "languages": [{ "language": "Chinese", "value": 100, "fluency": "Native speaker" }, { "language": "English", "value": 15, "fluency": "Native speaker" },{ "language": "Malay", "value": 100, "fluency": "Native speaker" } ],
     "interests": [
        
         {
@@ -106,54 +106,65 @@
     ],
     "projects": [
         {
-            "index": 3,
-            "date": { "month": 2, "year": 2017 },
-            "description": "A Java Program that calculate the calories to be burned by evaluating food consumed in one day and the lifestyle",
-            "name": "Burning Calories",
-            "endDate": "2017-03-01"
+            "index": 4,
+            "date": { "month": 5, "year": 2020 },
+            "description": "Blog réalisé en Java JEE et Spring, avec création d'une base de données MySQL et connectée avec JDBC.",
+            "id": "af8c78c3-f7c6-4f3b-9c32-9d37a9032e14",
+            "images": [{ "url": "https://cdn.filestackcontent.com/rPp0wj4S2GhTr0qTcqOI" }],
+            "link": "https://btz-java-2003-pjt1-blog.javarover.wilders.dev/",
+            "name": "Charlie's Angels blog",
+            "endDate": "2020-06-01"
         },
         {
-            "index": 2,
-            "date": { "month": 5, "year": 2017 },
-            "description": "A Second Hand Item Exchange and Sell Platform",
+            "index": 3,
+            "date": { "month": 5, "year": 2020 },
+            "description": "** Pensée uniquement pour téléphone **\nApplication permettant de connaître la météo actuelle d'une ville. Réalisée afin de découvrir VueJs.",
             "id": "c64e6ca1-6300-4d7f-a305-8cfb7c99a9e6",
-            "name": "Second Hand Platform",
-            "endDate": "2017-07-15"
+            "images": [{ "url": "https://cdn.filestackcontent.com/w5oskUihSiYCxekOn9Ba" }],
+            "link": "https://appli-meteo.netlify.app/",
+            "name": "Application Météo",
+            "endDate": "2020-06-01"
         },
         {
             "index": 1,
-            "date": { "month": 3, "year": 2020 },
-            "description": "To let teammate in group project to evaluate each other, and calculate the final score for each student before sending a report in excel file to professor",
-            "name": "Self Peer Evaluation System",
-            "endDate": "2020-06-30"
+            "date": { "month": 7, "year": 2020 },
+            "description": "Premières armes avec Angular et Typescript :\nMise en place d'un environnement Angular, développement d'une authentification avec Firebase, gestion des formulaires, utilisation d'observable avec RxJs.\n",
+            "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
+            "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
+            "link": "https://my-connected-library.netlify.app/",
+            "name": "Librairie Connectée",
+            "endDate": "2020-08-01"
         }
     ],
     "specific": {
         "basics": {
             "visaSponsorship": true,
-            "personalDescription": "Started to learn coding since 2015, keeps learning now and final aim is to find a software development job"
+            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
         },
         "dreamJob": {
             "locations": [
-                { "name": "Taiwan" },
-                { "name": "Silicon Valley, California" }
+                { "name": "Silicon Valley, California" },
+                { "name": "Taiwan" }
             ],
             "remoteFrequency": "regularly"
         },
-        "education": { "studiesLevel": 2 },
+        "currentJob": {
+            "issues": { "not_what_i_want": true}
+        },
+        "education": { "studiesLevel": null },
         "work": {
             "contractTypes": ["permanent"],
             "codingYears": 6,
-            "codingReason": "Seeing how powerful of technology is making me to start pursuing my diploma in Information Technology",
+            "codingReason": "Change the world with current technology",
             "searchState": "activelySearching",
             "experienceYears": 1,
-            "codeExperienceYears": 1,
+            "codeExperienceYears": null,
             "otherExperienceYears": null
         },
         "sound": {
             "embedUrl": "https://open.spotify.com/playlist/37i9dQZF1DXc7aGdJ1YSSD"
         },
-        "interestedBy": "PHP development"
+        "interestedBy": "React, PHP development"
     },
     "resumeCustomization": {
         "imageHeader": {
