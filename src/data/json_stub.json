@@ -2,7 +2,7 @@
     "basics": {
         "name": "Tan Wei Teng (Apple)",
         "label": "Programmer-to-be",
-        "picture": "profile.jpg",
+        "picture": "https://github.com/appletan9797/react-ultimate-resume/blob/develop/src/data/profile.jpg",
         "email": "appleteng97@gmail.com",
         "phone": "(65) 9738-3112",
         "website": "",
